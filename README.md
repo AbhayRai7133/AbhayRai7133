@@ -1,6 +1,9 @@
-# Hello there👋
+# Hey there👋
+<p align="start">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;LeetCode+Grinder;Python+Developer;Building+Cool+Things"/>
+</p>
 
-<img src="[https://media.giphy.com/media/your-banner](https://media1.tenor.com/m/C6ptpyfjIRkAAAAC/night.gif)" width="100%">
+
 
 ---
 
@@ -32,3 +35,4 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AbhayRai7133&theme=dark)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
