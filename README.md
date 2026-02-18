@@ -19,7 +19,26 @@ Interest: AI + System Design
 ---
 
 # ⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,django,mysql,mongodb,sqlite,github,vscode,opencv,numpy,pandas,matplotlib&theme=dark"/> </p>
+💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&theme=dark"/>
+</p>
+🌐 Frontend Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
+</p>
+⚙️ Backend Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django&theme=dark"/>
+</p>
+🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+</p>
+🧠 Data Science & Computer Vision
+<p align="center">
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+</p>
 
 # 📊 GitHub Analytics
 
