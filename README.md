@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_540.gifv" width=1000px height= 300px>
+<img src="https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_540.gifv" width=1000px height= 250px>
 
 # Hey there👋
 <p align="start">
