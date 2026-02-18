@@ -1,3 +1,5 @@
+<img src="https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_540.gifv" width=1000px height= 300px>
+
 # Hey there👋
 <p align="start">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;LeetCode+Grinder;Python+Developer;Building+Cool+Things"/>
