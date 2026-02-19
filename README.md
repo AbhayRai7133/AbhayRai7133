@@ -12,7 +12,7 @@
  
 </div>
 
-```yaml
+```text
 Name: Abhay Rai
 Role: Student
 Learning: Python, DSA, Web Dev
@@ -95,7 +95,7 @@ Goal: Become Software Engineer
 
 <div align="center">
   
-```yaml
+```text
 CODE  SLEEP  REPEAT
 ```
 </div>
