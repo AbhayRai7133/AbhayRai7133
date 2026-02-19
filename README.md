@@ -7,10 +7,12 @@
 
 ---
 <div align=center>
- 
+
+
 <h2> <img src="https://cdn.simpleicons.org/github/white" width="18"> <em> About me </em> </h2>
  
 </div>
+
 
 ```text
 Name: Abhay Rai
