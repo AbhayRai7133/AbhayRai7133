@@ -15,15 +15,10 @@ Learning: Python, DSA, Web Dev
 Goal: Become Software Engineer
 ```
 ---
-
-# ⚡ Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Abhay%20Rai&fontColor=ffffff"/>
 
 
-# ⚡ Tech Stack
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 💻 Programming Languages
 <p align="center">
 
