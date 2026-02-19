@@ -79,11 +79,6 @@ Goal: Become Software Engineer
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=AbhayRai7133&show_icons=true&theme=dark&hide_border=true&bg_color=4F4F4F&icon_color=ffffff&title_color=ffffff&text_color=ffffff&ring_color=ffffff"
-/>
-
-
  <h3>Contribution Streak</h3>
 
 <img 
