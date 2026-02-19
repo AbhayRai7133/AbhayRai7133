@@ -103,6 +103,6 @@ CODE  •  BUILD  •  LEARN  •  REPEAT
 </div>
 <div>
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:4F4F4F&height=120&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0f0f,100:4F4F4F&height=120&section=footer&width=100%"/>
 
 </div>
