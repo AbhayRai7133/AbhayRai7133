@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to my GitHub :)</h2>
-<img src="https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_540.gifv" width=1000px height= 200px>
+<img src="https://64.media.tumblr.com/82e8f524a8652c39e2aaf9a95aa1f475/tumblr_pdkpq6iAAV1wraxsto1_540.gifv" width=100% height= 200px>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Future+Software+Engineer;LeetCode+Grinder;Python+Developer;Building+Cool+Things"/>
@@ -25,7 +25,7 @@ Goal: Become Software Engineer
 
 <div align=center>
  
-<h2> <img src="https://cdn.simpleicons.org/simpleicons/white" width="18 "> <em> Technology </em> </h2>
+<h2> <img src="https://cdn.simpleicons.org/devdotto/white" width="18 "> <em> Technology </em> </h2>
 
 ### Core Technologies
 
@@ -78,6 +78,11 @@ Goal: Become Software Engineer
 <h2 align="center"> <img src="https://cdn.simpleicons.org/databricks/white" width="18"> <em> Statistics </em> </h2>
 
 <div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=AbhayRai7133&show_icons=true&theme=dark&hide_border=true&bg_color=4F4F4F&icon_color=ffffff&title_color=ffffff&text_color=ffffff&ring_color=ffffff"
+/>
+
 
  <h3>Contribution Streak</h3>
 
