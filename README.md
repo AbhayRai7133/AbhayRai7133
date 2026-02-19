@@ -98,6 +98,6 @@ Goal: Become Software Engineer
 <div align="center">
   
 ```text
-CODE  SLEEP  REPEAT
+CODE  •  BUILD  •  LEARN  •  REPEAT
 ```
 </div>
