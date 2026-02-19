@@ -21,23 +21,68 @@ Interest: AI + System Design
 # ⚡ Tech Stack
 💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
+
 </p>
+
 🌐 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
+
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
+
 </p>
+
 ⚙️ Backend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white"/>
+
 </p>
+
 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
 </p>
+
 🧠 Data Science & Computer Vision
 <p align="center">
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+
+<img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+🛠️ Tools & IDEs
+<p align="center">
+
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 # 📊 GitHub Analytics
