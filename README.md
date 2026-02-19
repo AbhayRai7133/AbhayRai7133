@@ -16,7 +16,8 @@ Goal: Become Software Engineer
 ```
 ---
 
-
+<div align=center>
+ 
 ## <img src="https://cdn.simpleicons.org/simpleicons/white" width="18"> Technologies
 
 ### Core Technologies
@@ -66,7 +67,7 @@ Goal: Become Software Engineer
 <img src="https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 </p>
-
+</div>
 <h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
 <div align="center">
