@@ -15,7 +15,6 @@ Learning: Python, DSA, Web Dev
 Goal: Become Software Engineer
 ```
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Abhay%20Rai&fontColor=ffffff"/>
 
 
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
