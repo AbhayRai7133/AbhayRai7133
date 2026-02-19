@@ -101,3 +101,4 @@ Goal: Become Software Engineer
 CODE  •  BUILD  •  LEARN  •  REPEAT
 ```
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:4F4F4F&height=120&section=footer&width=100%"/>
