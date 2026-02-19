@@ -8,15 +8,20 @@
 ---
 
 # 🧑‍💻 About Me
-
 ```yaml
-Username: AbhayRai7133
-Focus: Software Engineering
-Stack: Full Stack + DSA
-Databases: SQL & NoSQL
-Interest: AI + System Design
+Name: Abhay Rai
+Role: Student
+Learning: Python, DSA, Web Dev
+Goal: Become Software Engineer
 ```
 ---
+
+# ⚡ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode"/>
+</p>
+
 
 # ⚡ Tech Stack
 💻 Programming Languages
@@ -85,18 +90,22 @@ Interest: AI + System Design
 
 </p>
 
-# 📊 GitHub Analytics
+<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhayRai7133&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <h3>Contribution Streak</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayRai7133&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+  src="https://streak-stats.demolab.com?user=AbhayRai7133&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
 
-</p>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayRai7133&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Abhay's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+  <br/>
 
-🔥 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayRai7133&theme=tokyo-night&bg_color=000000&hide_border=true"/>
-👁 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbhayRai7133&color=00F7FF&style=for-the-badge"/> </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:0f0f0f,100:000000&height=120&section=footer"/> 
+</div>
